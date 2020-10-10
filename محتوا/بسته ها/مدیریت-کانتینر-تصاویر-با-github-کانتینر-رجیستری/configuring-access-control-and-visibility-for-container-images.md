@@ -68,6 +68,6 @@ For organization image containers, organizations admins must enable public packa
 
     **Warning:** Once you make a package public, you cannot make it private again.
 
-    {% endwarning %}
+    {% endwarning %
     - To make the container image visible to a custom selection of people, click **Make private**.
   ![Container visibility options](/assets/images/help/package-registry/container-visibility-option.png)
